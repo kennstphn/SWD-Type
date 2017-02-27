@@ -5,6 +5,21 @@ namespace SWD;
 
 class Type
 {
+    /*
+     * Sherman Web Design
+     * http://shermanwebdesign.com
+     *
+     * Author: Ken Sherman
+     * Github Repo: https://github.com/kennstphn/SWD-Type
+     *
+     *********************************************************************
+     * ***************************************************************** *
+     * *                                                               * *
+     * *  distributed under the WTFPL license -- http://www.wtfpl.net  * *
+     * *                                                               * *
+     * ***************************************************************** *
+     *********************************************************************
+     */
 
     /*
      * I have found it annoying lately to continue having to check for correct types and structures.

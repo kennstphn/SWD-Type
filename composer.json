@@ -1,0 +1,17 @@
+{
+  "name": "shermanwebdesign/type",
+  "description": "Some convenience functions to cast, validate, verify types",
+  "minimum-stability": "dev",
+  "license": "wtfpl",
+  "authors": [
+    {
+      "name": "Ken Sherman",
+      "email": "ken@shermanwebdesign.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "SWD\\": "./"
+    }
+  }
+}

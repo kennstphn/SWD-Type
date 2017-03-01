@@ -37,6 +37,11 @@ class Type
 
     }
 
+    static function validate_as_callable($function){
+        if( ! is_callable($function)){throw new \Exception('Not a callable function');}
+        return true;
+    }
+
     /*
      * is_valid is used to return a boolean if the type for the data is found in the array of
      * accepted types
